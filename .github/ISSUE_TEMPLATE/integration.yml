@@ -1,8 +1,6 @@
 ---
 name: Integration
 description: Propose a new integration
-title: "[INTEGRATION] "
-labels: ["integration"]
 body:
   - type: markdown
     attributes:
