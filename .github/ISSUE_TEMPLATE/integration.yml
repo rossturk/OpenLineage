@@ -8,7 +8,7 @@ body:
     attributes:
       # yamllint disable rule:line-length
       value: "
-        Thank you for your interest in OpenLineage!
+        ## Thank you for your interest in OpenLineage!
         
         We are very interested in new integrations that make it easier for users to adopt the standard. This form will help us collect a bit of information about the integration you are proposing."
       # yamllint enable rule:line-length
