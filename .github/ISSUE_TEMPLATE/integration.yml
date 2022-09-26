@@ -8,7 +8,6 @@ body:
     attributes:
       # yamllint disable rule:line-length
       value: "
-        <img src='https://openlineage.io/images/ol-logo.svg' align='left' height='60'><br />
         Thank you for your interest in OpenLineage!
         
         We are very interested in new integrations that make it easier for users to adopt the standard. This form will help us collect a bit of information about the integration you are proposing."
