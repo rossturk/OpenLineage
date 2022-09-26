@@ -4,7 +4,6 @@ about: Propose a new integration
 title: "[INTEGRATION]"
 labels: integration
 assignees: ''
-
 ---
 
 **Integration target:**

@@ -4,7 +4,6 @@ about: Propose an addition to the spec
 title: "[PROPOSAL]"
 labels: proposal
 assignees: ''
-
 ---
 
 **Purpose:**
