@@ -62,4 +62,3 @@ body:
   - type: markdown
     attributes:
       value: "Thanks for submitting a proposal! We appreciate the time you have spent."
----
