@@ -31,7 +31,7 @@ body:
     attributes:
       label: Proposed Implementation
       description: Please provide details about your proposed integration
-      placeholder: |
+      placeholder: >
       Please include a short description of your integration approach.
       
       Include links to the APIs required and the necessary target system documentation. If there is work being done within the target system, please provide a link to the other project's tracker if available.
