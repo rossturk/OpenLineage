@@ -10,33 +10,3 @@ body:
       label: Integration Target
       description: What are you proposing a new integration with?
       placeholder: i.e. which framework, project, or product
-  - type: checkboxes
-    attributes:
-      label: Type of integration
-      description: What kind of integration is this? Typically, integrations with data stores and orchestration systems produce lineage metadata and integrations with catalogs and data operations systems consume lineage metadata.
-      options:
-        - label: Lineage metadata producer
-        - label: Lineage metadata consumer
-        - label: Something else
-  - type: textarea
-    attributes:
-      label: Proposed Implementation
-      description: Please provide details about your proposed integration
-      placeholder: Please include a short description of your integration approach. Include links to the APIs required and the necessary target system documentation. If there is work being done within the target system, please provide a link to the other project's tracker if available.
-  - type: checkboxes
-    attributes:
-      label: Will this be implemented within the target system?
-      description: Ideally, target systems would emit OpenLineage metadata using a push mechanism. However, sometimes integrations are implemented as plugins that live within the OpenLineage repository.
-      options:
-        - label: This integration will be carried out in the target system
-        - label: This integration will be done in the OpenLineage repo
-        - label: This integration will be done somewhere else
-  - type: checkboxes
-    attributes:
-      label: Do you plan to make this contribution yourself?
-      description: This is absolutely not required. However, if you are interested in working on this project the community would be happy to help you. If not, that's ok too!
-      options:
-        - label: I am interested in doing this work
-  - type: markdown
-    attributes:
-      value: "Thanks for submitting a proposal! We appreciate the time you have spent."
