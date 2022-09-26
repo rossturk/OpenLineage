@@ -10,3 +10,4 @@ body:
       label: Integration Target
       description: What are you proposing a new integration with?
       placeholder: i.e. which framework, project, or product
+---
