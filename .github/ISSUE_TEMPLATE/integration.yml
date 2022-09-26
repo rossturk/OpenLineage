@@ -4,21 +4,6 @@ description: Propose a new integration
 title: "[INTEGRATION] "
 labels: ["integration"]
 body:
-  - type: markdown
-    attributes:
-      # yamllint disable rule:line-length
-      value: "
-        <img src='https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png' align='left' width='80' height='80'>
-        Thank you for finding the time to propose new feature!
-
-        We really appreciate the community efforts to improve Airflow.
-
-        Note, that you do not need to create an issue if you have a change ready to submit!
-
-        You can open [Pull Request](https://github.com/apache/airflow/pulls) immediately instead.
-        <br clear='left'/>"
-
-      # yamllint enable rule:line-length
   - type: textarea
     attributes:
       label: Description
