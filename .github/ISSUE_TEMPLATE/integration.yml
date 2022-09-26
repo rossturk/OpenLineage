@@ -1,6 +1,6 @@
 ---
-name: Integration2
-description: Propose a new integration2
+name: Integration
+description: Propose a new integration
 title: "[INTEGRATION]"
 labels: ["integration"]
 body:
