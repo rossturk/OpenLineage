@@ -7,12 +7,7 @@ assignees: ''
 body:
   - type: markdown
     attributes:
-    value: |
-      Thank you for your interest in OpenLineage. We are very interested in new
-      integrations that make it easier for users to adopt the standard.
-
-      This form will help us collect a bit of information about the integration
-      you are proposing.
+    value: Thank you for your interest in OpenLineage. We are very interested in new integrations that make it easier for users to adopt the standard. This form will help us collect a bit of information about the integration you are proposing.
   - type: textarea
     attributes:
       label: Integration Target
@@ -30,10 +25,7 @@ body:
     attributes:
       label: Proposed Implementation
       description: Please provide details about your proposed integration
-      placeholder: |
-        Please include a short description of your integration approach. Include links to the APIs required and the necessary target system documentation.
-
-        If there is work being done within the target system, please provide a link to the other project's tracker if available.
+      placeholder: Please include a short description of your integration approach. Include links to the APIs required and the necessary target system documentation. If there is work being done within the target system, please provide a link to the other project's tracker if available.
   - type: checkboxes
     attributes:
       label: Will this be implemented within the target system?
